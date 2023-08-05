@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    color: #fff;
+}
+
+body {
+    background-image: url("currency-img1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    background-color: transparent;
+    width: 20%;
+    border-radius: 10px;
+    top: 50%;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 45vh;
+    border: 1px solid #b1b1c5;
+    backdrop-filter: blur(20px);
+    box-shadow: 3px 3px 10px #121214;
+}
+
+h2 {
+    text-align: center;
+    padding: 30px 0px 10px 0px;
+}
+
+#outTxt {
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+}
+
+#curr-input {
+    padding: 6px;
+    font-size: 20px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    text-align: left;
+    margin: 20px 22px;
+    color: #000 ;
+}
+
+.options {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px;
+    margin: 5px;
+}
+
+select {
+    padding: 2px 7px;
+    outline: none;
+    cursor: pointer;
+    font-size: 16px;
+    border: 2px solid blueviolet;
+    background: none;
+    border-radius: 4px;
+}
+
+.conBtn {
+    padding: 8px 20px;
+    outline: none;
+    cursor: pointer;
+    border: none;
+    background-color: blueviolet;
+    color: #fff;
+    font-weight: 700;
+    text-align: center;
+    border-radius: 4px;
+    font-size: 20px;
+    transition: .3s ease-in-out;
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.conBtn:hover {
+    background-color: rgba(137, 43, 226, 0.701);
+}
+
+option{
+    color: #000;
+}
