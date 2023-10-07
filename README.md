@@ -3,7 +3,7 @@ Real time conversion using ExchangeRate- API
 
 ## Demo
 
-![Demo](https://github.com/Kaif-Shariff/Currency_Converter/blob/master/Demo.mp4)
+https://github.com/Kaif-Shariff/Currency_Converter/assets/93507427/c9a2d29a-f5fe-490f-8fd9-62323ee425fb
 
 ## Project Overview
 - **It's a Currency Calculator webpage built using HTML, CSS, JavaScript. The goal was to create an engaging and user-friendly UI.**
