@@ -3,7 +3,7 @@ Real time conversion using ExchangeRate- API
 
 ## Demo
 
-[Demo GIF](https://github.com/Kaif-Shariff/Currency_Converter/assets/93507427/12c22614-3d44-4136-ab11-f646ebe6032d)
+![Uploading Demo GIF.gif…]()
 
 
 ## Project Overview
