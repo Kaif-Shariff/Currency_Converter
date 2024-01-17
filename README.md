@@ -1,9 +1,8 @@
 ## Currency Calculator
-*wait for the media to load*
-<br />
+
 ![Demo GIF](https://github.com/Kaif-Shariff/Currency_Converter/assets/93507427/c50610a6-7884-4d2b-9ae8-061c7a0ad033)
-
-
+<br />
+*If the media doesn't load, please wait a moment and try refreshing the page.*
 ## Project Overview
 - **It's a Currency Calculator webpage built using HTML, CSS, JavaScript. The goal was to create an engaging and user-friendly UI.**
 - **My intention for this project is to demonstrate my programming skills.**
